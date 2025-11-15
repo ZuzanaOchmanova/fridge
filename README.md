@@ -4,7 +4,7 @@
 - `mobile/` – React Native Android app
 - `docs/` – notes, diagrams, roadmap
 
-##Smart Fridge Tracker 🍳🥦
+## Smart Fridge Tracker Describtion🍳🥦
 AI-assisted fridge inventory & expiry tracker
 
 Smart Fridge Tracker is a learning and portfolio project focused on building an end-to-end system for reducing food waste. The app helps users track what’s in their fridge, monitor expiration dates, and avoid buying duplicates while shopping.
